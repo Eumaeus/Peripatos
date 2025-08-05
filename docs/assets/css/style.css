@@ -21,8 +21,28 @@ body {
     margin-left: 330px;
     padding: 40px;
     max-width: 80ch;
-    font-size: 1.1em; /* Larger main text */
+    font-size: 2em; /* Larger main text */
 }
+
+figure {
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    max-width: 1000px;
+    padding: 1em;
+}
+
+figcaption {
+    font-size: 1em;
+}
+
+summary {
+    margin: 10px;
+}
+
+img, video{
+    max-width: 1000px;
+}
+
 .navigation {
     margin-top: 40px;
     display: flex;
