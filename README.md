@@ -1,7 +1,35 @@
 # Peripatos
 ## Travels with Amy and Chris Blackwell
 
-To see the web-pages, go to [https://eumaeus.github.io/Peripatos/](https://eumaeus.github.io/Peripatos/).
+This repository contains a Python script (generate_site.py) that generates a static website for a travel blog. It processes a hierarchical directory of Markdown files (in the posts directory) and linked media, converting them into HTML pages with a table of contents (TOC) sidebar based on the directory structure. The TOC uses accordion-style nesting for categories and sections, with persistence across page loads. Media files (e.g., images) are copied to the output directory without modifying originals.The generated site is output to the docs directory, which can be served locally or deployed (e.g., to GitHub Pages).
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Eumaeus/Peripatos">Peripatos: Travels with Amy and Chris Blackwell</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://eumaeus.substack.com">Amy G. Hackney Blackwell & Christopher W. Blackwell</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+## Prerequisites
+
+- Python 3.6 or higher (tested with Python 3.12).
+- Git (for cloning the repository).
+
+## Setup and Installation
+
+- Clone the Repository:
+```
+git clone https://github.com/Eumaeus/Peripatos.git
+cd Peripatos
+```
+- **Create and Activate a Virtual Environment** (recommended to isolate dependencies):
+	- On Unix/macOS:
+```
+python -m venv venv
+source venv/bin/activate
+```
+- Install Dependencies:
+	- The script requires the following Python packages:
+`pip install markdown beautifulsoup4`
+
+## Running the Script
+
+Ensure your Markdown content and media files are in the posts directory (hierarchically organized, e.g., posts/Category/Subcategory/section.md).
+
+Run the script:
+
+
 
