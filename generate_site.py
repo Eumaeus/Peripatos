@@ -305,7 +305,8 @@ home_html = f'''<!DOCTYPE html>
 <body>
     {sidebar_html}
     <div id="content">
-        <h1>Welcome to My Travel Blogs</h1>
+        <h1>περίπᾰτος (<i>Peripatos</i>)</h1>
+        <h2>“Walking and Talking” with Amy and Chris Blackwell</h2>
         <p>Select a post from the sidebar to begin reading.</p>
     </div>
 </body>

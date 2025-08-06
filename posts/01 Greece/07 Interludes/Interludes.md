@@ -1,5 +1,6 @@
+# Interludes
 
-# Interlude 1. Thessaloniki: September 4–6
+## Interlude 1. Thessaloniki: September 4–6
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -48,7 +49,7 @@ Now, in European airports, the baggage claim is within the secured area. You can
 We were ready to drive to Gavalou!
 
 
-# Interlude 2. Gavalou: September 6–9
+## Interlude 2. Gavalou: September 6–9
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -110,7 +111,7 @@ We ate *a lot* of french fries. Each platter of roast meat came on a bed of frie
 
 On Monday morning, George and Georgia headed to Athens for their flight home the next day. Chris and I bade them a fond farewell and headed back north to [Meteora](https://meteora.com/meteora-monasteries/).
 
-# Interlude 3. Meteora: September 9–10
+## Interlude 3. Meteora: September 9–10
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -199,7 +200,7 @@ We left Meteora around noon and drove off through the plain of Thessaly toward V
 
 **And then we hiked around Pelion for a week, September 11–16. We'll link to the full write-up here once we get it done!.**
 
-# Interlude 4. Kamena Vourla—and Thermopylae!: September 17–20
+## Interlude 4. Kamena Vourla—and Thermopylae!: September 17–20
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -275,7 +276,7 @@ In addition to *300*, we watched *Life of Brian* (perhaps the funniest movie eve
 
 It was nice to have our own house for a few days. And then it was time to head south to the Pelopponesus and the Menalon Trail!
 
-# Interlude 5. Mystra and Sparti: September 26-27
+## Interlude 5. Mystra and Sparti: September 26-27
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -331,7 +332,7 @@ It didn't take too long to get through the site. But we got what we wanted out o
 
 But it was time to head north! We were on our way to Nafplio for a recovery weekend. We took the E961, which might lie on the same route that Leonidas and his 300 Spartans took when they started marching to Thermopylae. But we parted company with them in Tripoli and headed west toward the Argolic Gulf.
 
-# Interlude 6. Nafplio: September 27–30
+## Interlude 6. Nafplio: September 27–30
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -348,7 +349,7 @@ Also, I found the NICEST apartment!
 
 ![So spacious!](images/Nafplio_apartment_IMG_2450.jpg)
 
-## Nafplio 2008-2009
+### Nafplio 2008-2009
 
 In 2008, we went to Nafplio to set up the copystand that the CHS had commissioned for the [2007 Venetus A project](http://www.homermultitext.org). We returned the next year to pack the thing back up and transport it to Patras, where Chris and our sister-in-law Casey Dué Hackney presented a talk at the university there. Both times we found Nafplio to be charming.
 
@@ -376,7 +377,7 @@ Nafplio was and is a big beach resort, packed with tourists in the summer.
 
 My, but we looked younger then! Amazing what a difference 16 years can make. 
 
-## Nafplio 2025
+### Nafplio 2025
 
 Though we are not now that strength which in old days moved earth and heaven, that which we are, we are. Also, this time we had our own car!
 
@@ -426,7 +427,7 @@ Back at our apartment, we were treated to an astonishing sunset. Wildfires had b
 
 ![Smoke-enhanced sunset](images/Nafplio_wildfires_IMG_2531.jpg)
 
-# Interlude 7. Epidavros–Isthmus–Athens–Piraeus–Rhodes: September 30–October 1
+## Interlude 7. Epidavros–Isthmus–Athens–Piraeus–Rhodes: September 30–October 1
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -470,7 +471,7 @@ We were a good hour behind schedule, but we still had to stop in Symi. [Symi](ht
 
 An hour later, we disembarked in Rhodes!
 
-# Interlude 8. Rhodes–Piraeus–Santorini–Chania: October 9–12
+## Interlude 8. Rhodes–Piraeus–Santorini–Chania: October 9–12
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -538,7 +539,7 @@ Our ferries came and went from Piraeus, but we had lunch next to Zea. Zea is now
 
 Then we dragged our stuff back to the port to sit around on the ground and await our ferry. It eventually came, and we were on our way to Santorini!
 
-# Interlude 9. Heraklion–Munich: October 28–29
+## Interlude 9. Heraklion–Munich: October 28–29
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
@@ -594,13 +595,13 @@ And we were back.
 
 
 
-# Trip Logistics
+## Trip Logistics
 
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
 > So every week or two, we'd stop someplace, live in a house, and catch our breaths. We picked our break locations for geographic convenience, historical interest, and nostalgia. These interludes were just as much a part of the trip as the hikes. 
 
-## Lodging 
+### Lodging 
 
 I had several requirements for Air BnBs:
 
@@ -613,11 +614,11 @@ Fortunately, we had no trouble finding lovely accommodations everywhere we staye
 
 And they've done a great job shoehorning modern amenities into properties that weren't built with multiple bathrooms and electric appliances in mind. Every property had air conditioning (far from guaranteed a couple of decades ago). Every property had wifi (of varying effectiveness, but there nevertheless). Every place even had a fancy coffee maker. The fact that every single one also had some weirdness (a four-floor walkup and only one key to the exterior door; super steep interior stairs; strange ancient blankets and a washing machine in the bathroom that had to be plugged in outside the bathroom door; wifi that looked strong but that didn't actually work at all) just helped to keep us humble in the eyes of the gods.
 
-## Ferries
+### Ferries
 
 Book your tickets online. It is easy. You get a "boarding pass" that you can either show the guys in your email, or load into your Wallet on your phone. We never had the slightest problem, whether on the fancy Blue Star overnight ferries or on the modest coastal ferries in Crete.
 
-## Driving
+### Driving
 
 Mainland Greece has a really excellent system of national roads, which closely resemble U.S. Interstate highways. The main difference is that these are toll roads. 
 
@@ -637,7 +638,7 @@ Parking tends to be casual. If there's space on the side of a road, it generally
 
 Carplay navigation usually works well, though our phones would lose signal in the mountains. When plugged in, Amy's phone would sometimes drop Maps and start playing Prokofiev's *Peter and the Wolf* for reasons that we never discerned. Only our Skoda even had Carplay, so this strange bug wasn't relevant in Rhodes or Crete.
 
-## Rental Cars
+### Rental Cars
 
 We ended up renting three different cars. First, we rented a very nice car in Thessaloniki to use throughout mainland Greece. We just parked it at the start of our two multi-day hiking trips and collected it at the end. Trekking Hellas recommended that strategy; it's difficult (maybe impossible?) to reach some of our starting points with public transportation, and though car transfers are always possible, they'd have cost as much as renting for the whole time. 
 
