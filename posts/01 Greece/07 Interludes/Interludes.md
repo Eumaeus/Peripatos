@@ -222,7 +222,7 @@ After a quick drink at our favorite café in Milies and a quick conversation lea
 
 The whole point of staying here was to put us near Thermopylae. As everyone no doubt knows, Thermopylae was the site of a battle fought in 480 BCE between the Persians under emperor Xerxes (the invading force) and the Greek city-states (defending their homeland). Spartan king Leonidas and his force of 300 Spartan warriors famously held them off at the "Hot Gates," a narrow pass on the coastline. We were keen to see this landscape!
 
-To refresh our memories of the details, we watched the movie *300* as historical prep. It really isn't bad for a quick and engaging refresher of the key characters and events. To sum up: Persia is invading Greece. King Leonidas of Sparta leads an army, including 300 special forces dudes all the way to the "Hot Gates," a narrow pass where they set up shop and manage to keep the Persians at bay until they're betrayed by one Ephialtes, who leads the Persians up and around a "goat path" to get get behind the Spartan forces and kill them to a man. 
+To refresh our memories of the details, we watched the movie *300* as historical prep. It really isn't bad for a quick and engaging refresher of the key characters and events. To sum up: Persia is invading Greece. King Leonidas of Sparta leads an army, including 300 special forces dudes, all the way to the "Hot Gates," a narrow pass where they set up shop and manage to keep the Persians at bay until they're betrayed by one Ephialtes, who leads the Persians up and around a "goat path" to get behind the Spartan forces and kill them to a man. 
 
 ![The great Leonidas in Sparta](images/Sparta_Leonidas_IMG_2401.jpg)
 
@@ -272,7 +272,7 @@ We made trips into town to shop at the [Galaxias](https://5ae.gr) grocery stores
 
 ![Kamena Vourla has lots of little boats.](images/KamenaVourla_boats_IMG_2004.jpg)
 
-In addition to *300*, we watched *Life of Brian* (perhaps the funniest movie ever) and part of *300*'s sequel about the Battle of Salamis is called (unwatchable, stupid, and a complete waste of money).
+In addition to *300*, we watched *Life of Brian* (perhaps the funniest movie ever) and part of *300*'s sequel about the Battle of Salamis (unwatchable, stupid, and a complete waste of money).
 
 It was nice to have our own house for a few days. And then it was time to head south to the Pelopponesus and the Menalon Trail!
 

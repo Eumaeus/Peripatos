@@ -17,11 +17,66 @@ body {
 #sidebar h2 {
     margin-top: 0;
 }
+
+
+#sidebar {
+  /* Your existing sidebar styles, e.g.: */
+  width: 300px; /* Example width */
+  background-color: #f0f0f0; /* Example background */
+  padding: 20px; /* Example padding; adjust if needed */
+  position: relative; /* Helps with any absolute positioning if required */
+}
+
+#sidebar:before {
+  content: ''; /* Required for pseudo-element to appear */
+  display: block;
+  width: 100%; /* Matches sidebar width */
+  height: 50px; /* Adjust based on your PNG height */
+  background: url('meander.png') center top no-repeat;
+  background-size: contain; /* Scales image to fit width without distortion; use 'cover' or specific sizes if preferred */
+  margin-bottom: 10px; /* Optional spacing between decoration and sidebar content */
+}
+
+#sidebar:after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 50px;
+  background: url('meander.png') center bottom no-repeat;
+  background-size: contain;
+  margin-top: 10px; /* Optional spacing */
+}
+
 #content {
     margin-left: 330px;
     padding: 40px;
     max-width: 80ch;
     font-size: 2em; /* Larger main text */
+}
+
+#content {
+  position: relative; /* Not strictly needed here but useful if you add other positioned elements later */
+}
+
+#content:before {
+  content: 'Peripatos (Περίπατος): Walking & Talking with Amy and Chris Blackwell'; /* Fixed branding text; replace with your website name */
+  display: block;
+  height: 200px; /* Sets the banner height; adjust for vertical cropping */
+  background: url('us.jpg') no-repeat;
+  background-size: cover; /* Fills the area, cropping as needed; alternative: '100% auto' for full width without horizontal crop */
+  background-position: center top; /* Controls vertical focus: e.g., 'center center' for middle crop, 'center bottom' for bottom, or 'center 30%' for fine-tuning */
+  color: white; /* Contrasting color for the text */
+  font-size: 1em; /* Customize text size */
+  font-weight: bold; /* Optional for emphasis */
+  text-align: center; /* Horizontal centering */
+  line-height: 200px; /* Vertically centers the text; match to height or adjust (e.g., 150px for top alignment) */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Improves readability on busy/dark images; tweak or remove */
+}
+
+/* Optional: Style the page-specific <h1> if needed, but it will naturally appear below the banner */
+#content h1 {
+  margin-top: 20px; /* Adds spacing below the banner; adjust as needed */
+  text-align: center; /* Example centering */
 }
 
 figure {
