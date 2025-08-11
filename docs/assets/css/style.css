@@ -18,7 +18,6 @@ body {
     margin-top: 0;
 }
 
-
 #sidebar {
   /* Your existing sidebar styles, e.g.: */
   width: 300px; /* Example width */
@@ -45,6 +44,10 @@ body {
   background: url('meander.png') center bottom no-repeat;
   background-size: contain;
   margin-top: 10px; /* Optional spacing */
+}
+
+.navigation {
+    font-size: 0.8em;
 }
 
 #content {
