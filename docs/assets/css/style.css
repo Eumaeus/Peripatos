@@ -128,3 +128,9 @@ a {
 a:hover {
     text-decoration: underline; /* Optional hover underline */
 }
+
+#footer {
+    font-size: 0.5em;
+    padding: 1em;
+    border: 1px solid silver;
+}

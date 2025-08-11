@@ -283,7 +283,9 @@ for cat in sorted_categories:
     <div id="content">
         {html_fragment}
         {nav_html}
+         <p id="footer"><i>Peripatos</i>: Travels with Amy and Chris Blackwell © 2025 by Amy G. Hackney Blackwell & Christopher W. Blackwell is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0.</a></p>
     </div>
+
 </body>
 </html>
 '''
