@@ -4,7 +4,7 @@
 
 ## (Not Rhodes… that’s coming later)
 
-![The Sackk of Troy](imags/aeneas_troyfalls_3medieval-1825827011.jpg)
+![The Sack of Troy](images/aeneas_troyfalls_3medieval-1825827011.jpg)
 
 >| “[Heracles] who once came here for the mares of Laomedon
 >| With only six ships and a few men,
@@ -24,7 +24,7 @@ The passage of the *Iliad*, Book 5 (above) recounts the *first* time Troy was sa
 
 Homer uses [**ἀγυιά** (*aguia*)](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n967) to refer to the streets of a city.
 
-[The Streets of Troy?](images/village-840355_960_720.jpg)
+![The Streets of Troy?](images/village-840355_960_720.jpg)
 
 ## ΟΔΟΣ (*Odos*)
 
@@ -32,7 +32,7 @@ But the word for “road” or “street” that everyone learns in First Year A
 
 And modern Greek seems to use **οδός** (*odos*, note the lack of an ‘h’, since Greek lost the Aspirate over the centries) for the streets of a city. For example, there is [Οδός Αιóλου, Aiolou Street, named after Theseus’ father](https://en.wikipedia.org/wiki/Aiolou_Street) in Athens. But also, little tiny—very tiny—streets in itty-bitty rural villages like Vitina in Arcadia are labelled with ΟΔΟΣ.
 
-[Picture of street sign in Vitina](images/vitina.jpg)
+![Picture of street sign in Vitina](images/vitina.jpg)
 
 [Ὁδός (*hodos*)](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n72092) turns up on Homer and other ancient literature, but it seems usually to be a road outside of town, not a city street, as in this vivid simile about bees along a trail:
 
@@ -66,7 +66,7 @@ In Sophocles’s play, *Oedipus Tyrannos*, no one actually says *triodos*, as fa
 
 > — Sophocles, *Oedipus Tyrannos* 732–734
 
-[The road to Delphi, where, like, 40 roads come together.](images/delphi.jpg)
+![The road to Delphi, where, like, 40 roads come together.](images/delphi.jpg)
 
 Later, we get the “triple” aspect of the fateful road when Oedipus recounts to Jokasta his version of events:
 
@@ -83,7 +83,7 @@ So that’s ὁδός, *hodos*! Remember, Ancient Greek students, it is second 
 
 As we hike around Greece in the 21st Century, often we are not on an *odos* but on a *monopati*.
 
-[Sign for the monopati. Stay on the monopati!](images/monopati-sign.jpg)
+![Sign for the monopati. Stay on the monopati!](images/monopati-sign.jpg)
 
 Ancient Greek does not seem to have *monopati*, but we can see where it comes from. In *Iliad* 20, Poseidon tells Athena that they should…
 
@@ -97,7 +97,7 @@ And in Book 6, Homer says that the hero Bellerephon, when he became hateful to t
 
 [πάτος [ᾰ], ὁ,](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n80019) is a “beaten track; footpath” in Ancient Greek, so our μονόπατι is a *mono-patos*, a “single-track”.
 
-[A perfect *monopati*.](images/monopati.jpg) 
+![A perfect *monopati*.](images/monopati.jpg) 
 
 ## ΔΡΟΜΟΣ (*Dromos*), ΚΩΜΑ (*Κōma*), ΠΕΖΟΣ (*Pezos*)
 
@@ -112,13 +112,13 @@ Ancient Greek [δρόμος](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:ls
 
  This “-drome” ending comes into English (and Modern Greek) in lots of forms—“velodrome”, “aerodrome”, and as we saw here in the very touristy part of Rhodes, **ΚΑΡΤΑΔΡΟΜΟΣ** (*kartodromos*), “go-cart track”, next to the mini-golf and the waterpark.
 
- [ Hippodrome ]
+ ![The Hippodrome of Constantinople.](images/Constantinople.jpg)
 
  And let’s throw in [κῶμα, *kōma*](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n115163) (*kōma*), an earth-work, dirt-mound, or dyke. In Book 1 of Herodotus, we read that Hypargus, one of the Persian King Cyrus’s generals, capturing the Asian Greek cities “by means of earthworks” (αἵρεε τὰς πόλιας **χώμασι**) [(Herodotus, 1.162)](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:1.162?right=perseus-eng2).
 
  In Modern Greek, it has come to mean just “dirt”, generally, as in ΚΩΜΑ ΓΙΑ ΚΗΠΟ, garden soil, advertised in garden-centers along any road leading into the countryside.
 
- [Garden soil]
+ ![Garden soil.](images/garden_soil.jpg)
 
  And one more, [πέζος, *pezos*](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n80306) (*pezos*). This meant “on foot”, as in [*Iliad* 8.59](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:8.59?right=perseus-eng3), which lumps the whole Trojan army, as it comes out of the gates to fight, into **πεζοί** θʼ ἱππῆές τε, “**those on foot** and the horses”.
 
@@ -126,34 +126,36 @@ Ancient Greek [δρόμος](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:ls
 
 A “car” is an **αυτοκίνητο**, pronounced *aftokinitiko*; this is of course a “self-mover”, something that is “auto-kinetic”, or “auto-mobile”, of course. Amusingly, this word appears in Ancient Greek! [αὐτοκίνητος, ον,](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n17757) shows up in Aristotle’s *Physics*, and a number of other less-often-read works: “the thing that moves with nothing moving it.” We rented a Toyota Avgo (“Egg”) for driving around Rhodes. With only three cylinders, it barely qualified as an αυτοκίνητο.
 
-[Toyota Avgo]
+![Toyota Avgo.](images/IMG_3044.jpg)
 
 The roads that you might drive on range from the most modern highways you can imagine down to dirt tracks. For getting from town to town, you might go on a major highways, **Αυτοκινητόδρομοι** (*aftokinitodromi*, “car-racetrack”) or on **Εθνικές Οδοί** (*ethnikes odi*, "National roads"). Their main difference is that motorways (Greek: Αυτοκινητόδρομοι) adhere to higher quality construction standards than National Roads (Greek: Εθνικές Οδοί).
 
 The biggest kind of road is the **δρόμος δύο λωρίδων κυκλοφορίας**, “fast-road with two tracks for circulation”. These are the ones with tolls.
 
-[ Fast highway ]
+![Fast highway.](images/tolls.jpg)
 
 This is a super-set of the **ασφαλτοστροωμένος δρόμος**, “asphalt-paved fast-road”. [Ἄσφαλτος, *asphaltos*]](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n16875) is a good ancient word, used, among other things, to describe the “pitch” that Noah used to waterproof the Ark ([*Genesis* 6.14](https://biblehub.com/genesis/6-14.htm)). A smaller paved road is a **δευτερύων ασφαλτόδρομος** (*defterion asphaltodromos*), “secondary paved road.”
 
+![Waterproofing the Ark.](images/noah.jpeg)
+
 Of dirt roads **χωματόδρομοι**, as Aristotle might have said, there are four types. A “main dirt road” is a **κύριος χωματόδρομος** (*kirios chōmatodromos*) (literally, a “lordly dirt road”). Of lesser stature is a **δευτερύων χωματόδρομος**, “secondary dirt road”. More rugged yet is your **δευτερωύων χωματόδρομος μόνο για 4x4**, “secondary dirt road only for a 4x4.” Amy and I walked a fair number of miles on examples of the **δευτερωύων χωματόδρομος κακής βατότητας**, “secondary dirt road of bad condition for going along it.”
 
-[Dirt road]
+![Dirt road.](images/IMG_2189.jpg)
 
 Those are all roads for **αυτοκίνητα**. For folks on foot, our **πεζοί**, there is an equally well-developed taxonomy.
 
 Inside towns, especially those built on the sides of hills (which seem to be all of them, based on what we’ve seen), you have **πεζόδρομοι**, “pedestrian ways”, winding narrowly among houses.
 
-[ Pedestrian way ]
+![Pedestrian way.](images/street-with-flowers-wallpaper-preview.jpg)
 
 If one of these is bigger, perhaps a maintained remnant of ancient road, it is a **διαμορφωμένο μονοπατί** (*diamorphōmeno monopati*), a “wide-laid trail”.
 
 Up in the mountains or down in the gorges (which are many and are called **φαράγγια** (*pharangia*), with the singular being **φαράγγι**, *pharangi*), you hope to find a **φανερό μονοπάτι**, a “well-defined path”.
 
-[ well-defined path]
+![Well-defined path.](images/well-laid-path.jpg)
 
 Alas, very often as you hike around the remoter mountains of Greece, you will find yourself on an **ασαφές μονοπάτι** (*asaphes monopati*). Students of ancient Greek will recognize [**ἀσαφής -ές**](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n16112), “unclear”. So this is the “unclear, indistinct path”. Use your compass; go slowly; and keep your head!
 
 Happily, Greece, like most of Europe, is sufficiently heavily settled that you can’t really walk two miles in any direction without coming to some road, either a lovely **ασφαλτοστροωμένος δρόμος**, or at least a **χωματόδρομος** where you can be sure that a local will come by, in the ubiquitout 1982 red Datsun pickup, to tend his goats; these folks, like country folks in the Carolinas, will move heaven and earth to help you if you are polite.
 
-[ goats ]
+![Goats!](images/IMG_1471.jpg)

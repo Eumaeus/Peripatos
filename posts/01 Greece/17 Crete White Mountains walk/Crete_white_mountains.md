@@ -92,7 +92,7 @@ We went out for a bit to stroll around the Old Town. We bought traditional Creta
 
 In need of no more food that day, we retired to our hotel. There, we watched the OG *Carrie*, with Sissy Spacek and John Travolta. Groovy!
 
-# Crete White Mountains. October 14: Agia Irini Gorge and Omalos
+## Crete White Mountains. October 14: Agia Irini Gorge and Omalos
 
 ![Map of Agia Irini and environs](images/Agia_Irini_map_IMG_3447.jpg)
 
@@ -152,7 +152,7 @@ The staff at the [Hotel Neos Omalos](https://www.neos-omalos.gr) were fielding q
 
 I ate goat for lunch. It was delicious!
 
-# Crete White Mountains. October 15: Mt. Gingilos (or Gigilos)
+## Crete White Mountains. October 15: Mt. Gingilos (or Gigilos)
 
 ![The Mt. Giglios hike. We made it about half way.](images/giglios_map.jpg)
 
@@ -232,7 +232,7 @@ Especially because tomorrow the [Samaria Gorge](https://www.visitgreece.gr/exper
 
 ![There are lots of sheep in Omalos.](images/Omalos_sheep_IMG_3600.MOV)
 
-# Crete White Mountains. October 16: Samaria Gorge and Agia Roumeli
+## Crete White Mountains. October 16: Samaria Gorge and Agia Roumeli
 
 ![Samaria Gorge is up through that notch.](images/Samaria_from_sea_IMG_4006.jpg)
 
@@ -366,7 +366,7 @@ The name "Agia Roumeli" is funny. You might think it means "Saint Roumeli," but 
 
 It was wonderful to have reached the southern reaches of the Aegean world. Just the name "Libyan Sea" suggests the imminent presence of Africa. 
 
-# Crete White Mountains. October 17: Agia Roumeli–Loutro
+## Crete White Mountains. October 17: Agia Roumeli–Loutro
 
 ![The hike to Loutro, along the coast.](images/to_loutro_map.jpg)
 
@@ -424,9 +424,9 @@ It was lovely to clean up and enjoy a quiet evening.
 
 ![Moonrise.](images/Loutro_moonrise_IMG_3861.MOV)
 
-# Crete White Mountains. October 18–19: Loutro–Chora Sfakia–Sougia
+## Crete White Mountains. October 18–19: Loutro–Chora Sfakia–Sougia
 
-## October 18: Loutro
+**October 18: Loutro**
 
 Today was a rest day. And we rested! 
 
