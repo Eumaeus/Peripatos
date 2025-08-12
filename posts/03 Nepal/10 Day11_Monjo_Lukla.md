@@ -1,4 +1,5 @@
-# May 8: Monjo--Lukla
+# Day 11: Monjo to Lukla. Everest Lodge-to-Lodge, April 28--May 9, 2025
+
 
 I awoke to texts from our kids reporting that they had arrived in Kathmandu and checked into the Ramada with no difficulty. This was good! We were starting to get anxious about returning to the city on time and plunging directly into wedding activities.
 

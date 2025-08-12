@@ -1,10 +1,10 @@
-# Everest Lodge-to-Lodge, April 28--May 9, 2025
+# *Peripatos* in the Khumbu. Everest Lodge-to-Lodge, April 28--May 9, 2025
 
 We did the [Everest Lodge-to-Lodge hike](https://www.wildernesstravel.com/trip/nepal-everest-lodge-hiking-tour/) in the spring of 2025. (Well, technically, we were on the [Everest Private Journey](https://www.wildernesstravel.com/trip/everest-private-journey/), but the itinerary is basically the same) [Wilderness Travel](https://www.wildernesstravel.com) did a great job of organizing it!
 
 A good time was had by all!
 
-# Peripatos and Khumbu--Proof of Proof of Concept
+## Proof of Proof of Concept
 
 Part of [the point of the Peripatos project](https://eumaeus.substack.com/p/peripatos-2024-statement-of-purpose) was to get a sense of what travel and general human existence were like in ancient times, back when all land travel was done on foot - maybe an animal's feet, but still. We realized that much of the difference between then and now was the result of where wheels can go and where they can't.
 
@@ -50,9 +50,9 @@ Sure, some stuff comes in on planes and helicopters, and in 2025, drones started
 
 ![Our porter, Mila Dai, carried our two duffel bags and the giant oxygen canister throughout the trek. When he got done with out load, he'd find extra work portering back to Namche or collecting yak dung in the hills around town.](images/) 
 
-![Porters carrying construction materials up to Namche.]
+![Porters carrying construction materials up to Namche.](images/)
 
-![Donkey trains carry the majority of goods in the lower Khumbu, between Lukla and Namche.]
+![Donkey trains carry the majority of goods in the lower Khumbu, between Lukla and Namche.](images/)
 
 ![Above Namche, yak-cow hybrids called jhopkyos do most of the carrying. Walkers are advised to watch out for their horns!]
 

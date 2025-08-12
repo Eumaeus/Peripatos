@@ -1,4 +1,4 @@
-# May 6: Phortse--Namche Bazaar
+# Day 9. Phortse to Namche Bazaa. Everest Lodge-to-Lodge, April 28--May 9, 2025
 
 ![Chris and Bala check out an old house in Phortse. Livestock can stay in the bottom to help heat the top.](images/Phortse_house_IMG_6524.HEIC)
 

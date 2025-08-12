@@ -1,10 +1,10 @@
 # Interludes
 
-## Interlude 1. Thessaloniki: September 4–6
-
 > We planned our 2024 trip through Greece with breaks throughout, during which we could stay in apartments and live semi-normal lives for a few days between multi-day hikes. [Trekking Hellas](https://trekking.gr) hikes are extremely well-organized and the hotels are always comfortable and hospitable, but it is tiring to move from place to place every night, and keeping up with laundry can be a challenge.
 
 > So every week or two, we'd stop someplace, live in a house, and catch our breaths. We picked our break locations for geographic convenience, historical interest, and nostalgia. These interludes were just as much a part of the trip as the hikes. 
+
+## Interlude 1. Thessaloniki: September 4–6
 
 Our trip started in North Carolina. Our wonderful friend Pat Kennedy generously agreed to drive us all the way to the Charlotte airport, which was immensely kind of him. 
 

@@ -1,4 +1,4 @@
-# Everest Lodge-to-Lodge, April 28--May 9, 2025
+# The Beginning: Kathmanduy. Everest Lodge-to-Lodge, April 28--May 9, 2025
 
 We did the [Everest Lodge-to-Lodge hike](https://www.wildernesstravel.com/trip/nepal-everest-lodge-hiking-tour/) in the spring of 2025. (Well, technically, we were on the [Everest Private Journey](https://www.wildernesstravel.com/trip/everest-private-journey/), but the itinerary is basically the same) [Wilderness Travel](https://www.wildernesstravel.com) did a great job of organizing it!
 
@@ -6,7 +6,7 @@ A good time was had by all!
 
 
 
-# The beginning: Kathmandu
+## The beginning: Kathmandu
 
 Obviously everything started in Kathmandu. It's the only place to fly into Nepal, so nearly everyone comes in through there. (A few people travel overland from India.)
 

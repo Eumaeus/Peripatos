@@ -1,4 +1,4 @@
-# May 7: Namche Bazaar--Monjo
+# Day 10: Namche to Monjo. Everest Lodge-to-Lodge, April 28--May 9, 2025
 
 ![Our last view of Namche, nestled in the clouds this morning.](images/Namche_cloudy_last_view_IMG_6713.HEIC)
 

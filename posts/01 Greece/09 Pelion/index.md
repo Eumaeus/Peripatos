@@ -377,7 +377,7 @@ And... that was the end of Pelion!
 
 ![I thought it was a fun hike!](images/Portaria_Amy_dinner_IMG_1987.jpg)
 
-![Sunset in Portaria](images/Portaria_sunset_IMG_1984.jpg/)
+![Sunset in Portaria](images/Portaria_sunset_IMG_1984.jpg)
 
 ## September 17: Portaria to Milies, and parts beyond!
 

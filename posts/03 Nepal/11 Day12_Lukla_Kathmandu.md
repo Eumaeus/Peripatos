@@ -1,4 +1,4 @@
-# May 9: Lukla--Kathmandu
+# Day 12: Lukla to Kathmandu. Everest Lodge-to-Lodge, April 28--May 9, 2025
 
 We were up at dawn as usual. It was odd to eat breakfast among other tourists. The Mountain Lodge was getting set up for a visit by VIPs, with tables out on the patio.
 

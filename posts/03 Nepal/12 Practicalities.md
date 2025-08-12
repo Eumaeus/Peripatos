@@ -1,6 +1,5 @@
+# Boots (or shoes) on the Ground: Practicalities. Everest Lodge-to-Lodge, April 28--May 9, 2025
 
-
-# Boots on the Ground: Practicalities
 
 Not gonna lie, getting to, into, and through the Khumbu valley is mui complicado. Here are some of the key things we had to think about on this trip.
 

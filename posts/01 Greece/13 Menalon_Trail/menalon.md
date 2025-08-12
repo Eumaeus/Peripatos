@@ -1,5 +1,7 @@
 # The Menalon Trail
 
+Amy had a day-by-day account of the Menalon trail. This post contains my impressions of it, and what I learned from walking on it.
+
 ## Six Days Hiking in Arcadia
 
 >| Those who held Arcadia in Cyllene’s shadow
@@ -30,18 +32,18 @@
 
 — Homer, *Iliad*, 2.603-2.614 (Lombardo, trans.)
 
-[Picture - Zeus]
+![A mountain village.](images/village.jpg)
 
 We just finished hiking the eight stages of the [Menalon Trail](https://menalontrail.eu/en/), in [Arcadia](https://en.wikipedia.org/wiki/Arcadia_(region)), in the center of the Peloponnese. It was great! We are exhausted. Our arrangements were made by the excellent [Trekking Hellas](https://trekking.gr/en/excursions/menalon-trail-hiking-tour-self-guided).
 
-[map - screenshot]
+![The Menalon Trail.](images/map.jpg)
 
 ## Arcadia & Disney
 
 
 Arcadia is the high central plateau of the Peloponnese, the large southern region of Greece, a penninsula connected to the northern mainland by the Isthmus of Corinth (to the east) and the modern Patras Bridge across the mouth of the Gulf of Corinth (to the west).
 
-[Picture - Arcadia]
+![Arcadia is exactly like this.](images/disney.jpg)
 
 If you have any image of Arcadia in your mind, it might be from Disney’s *Fantasia*, the bit set to [Beethoven’s Pastoral Symphony (No. 6 in F major, Op. 68)](https://en.wikipedia.org/wiki/Symphony_No._6_(Beethoven)). This symphony has five movements, each intended to paint a picture of a bucolic life:
 
@@ -53,7 +55,7 @@ If you have any image of Arcadia in your mind, it might be from Disney’s *Fant
 
 Disney’s animators decided to set their scene in the Greek Arcadia of mythology, land of the god Pan, of merry-making, of wine, and of storms. After a week up here, I think they made an excellent call.
 
-[Picture - Fantasia]
+![Me, at the end of a day's walking.](images/bacchus.jpg)
 
 ## The Menalon Trail
 
@@ -61,15 +63,17 @@ Greece, in general, and the people of Arcadia in particular are intensely proud 
 
 >(The picture on the official home page is of the village of Stemnitsa; the building directly under the green structure was the elegant guest-house, the [Belleiko Xenōnas, Μπελλείκο παραδοσιακός ξενώνας)](https://mpelleiko.gr/en/).
 
-[picture - forest]
+![Magical forest.](images/trees.jpg)
 
 This is one of two trails in Greece certified by the [ERA (European Ramblers Association)](https://www.era-ewv-ferp.org/e-paths/)—the other is on Andros Island—which means that the maintenance and signage are up to the highest European standards (which are very high, based on our experiences in Switzerland, France, Italy, and Austria). 
 
-[Picture - blaze]
+![Basic trail blaze.](images/sign.jpg)
 
 The trail is well-marked with these cool blazes. I am looking forward to showing these to my friend, Professor Ross McClain, who teaches art, and logo-design, at Furman University. The distinctive little swash is recognizable as a Greek “m” (‘μ’) and a Latin "em"; it also looks like a mountain-range.
 
 The blazes are metal squares, the corners of which the trail-people can bend to turn the square into an arrow. Between these blazes and the `.gpx` files provided by [Trekking Hellas](https://trekking.gr/en/) we had little problem.
+
+![A directional blaze. Clever!](images/sign2.jpg)
 
 The trail is divided into eight sections, each beginning and ending at a town, village, or settlement (this distinction matters… see below!). Stemnitsa, Dimitsana, Zygovisti, Elati, Vytina, Nymphasia, Magouliana, Valtesiniko, Lagadia.
 
@@ -89,23 +93,23 @@ We spent five days, which meant that days 2, 3, and 4 were “double-stages”. 
 
 For a total of 45.3 miles and 9,726 feet of elevation gained. The low point of the trail was 1,378 feet, and the high point was 6,636 feet. 
 
-[picture - steep]
+![Amy ascends.](images/amy.jpg)
 
 We’ve done more distance and ascent on trails in the Swiss Alps, but Menalon doesn’t believe in that zig-zag thing for gaining altitude. Why zig and zag when you can go straight up!
 
 Some parts of the trail are eroded, despite the best efforts of the maintainers (no different from what we’ve seen in Switzerland, but slippery, scary, and difficult nevertheless).
 
-[Picture- bad trail]
+![The trail of often badly washed out.](images/bad_trail.jpg)
 
 ## Highlights
 
 Many, many, many little monasteries perched on the sides of mountains. A long traverse through the gorge of the River Lousios, where the nymphs once bathed baby Zeus. Many sheep and goats, guarded by diligent dogs who scared the hell out of us but were content to see us pass by, pale and sweating.
 
-[Picture - monastery]
+![We never bothered with the guided tours of the monasteries. They were cool to look at, though.](images/monastery.jpg)
 
 But when the trail was good, it could be perfectly beautiful. I’ve got a blog-post in the works on the elaborate taxonomy of highways, but suffice it to say that Menelon had us walking along woodland tracks, logging roads, ancient paths of commerce paved with cobbles of immemorial antiquity.
 
-[Picture - nice path]
+![When the path was good, it was magical.](images/pretty_trail.jpg)
 
 ## Caveats 2: Off-season travel
 
@@ -113,7 +117,7 @@ September is what the old Vermonters would call “’taint season”, as in “
 
 At our hotel in Nymphasia, for example, we were literally the only guests in this huge resort hotel. There was no restaurant or taverna in Nymphasia, at least none open during the week. So our hotel had a kind of "DoorDash" arrangement with a restaurant in Vytina, a 90-minute walk (I can tell you), but only a 5-minute drive away. You can’t count on grocery stores or pharmacies in any of these villages. There might be some, but they are probably closed. Or, closed during the afternoon, when you are hiking through.
 
-[Picture - small town]
+![Every town in Arcadia looks like this.](images/village2.jpg)
 
 Many times we missed the freedom afforded by our rented Skoda, which was parked at the trailhead in Stemnitsa, not to be rejoined until this morning, after a 75-minute cab-ride from Lagadia.
 
@@ -123,7 +127,7 @@ Season or no, tiny settlement or “major” village, breakfast was always plent
 
 The water along the trail is plentiful and wholesome!
 
-[Picture - water]
+![Lovely flowing water!](images/water.jpg)
 
 ## Missing History
 
@@ -133,7 +137,9 @@ Sparta was a big deal, in my education, until it wasn’t. Thebes, and the Theba
 
 The place became “vacation-land” for the Romans, with Sparta turning into “Buffalo Bill’s Wild West Show”, or (God help us) “Medieval Times”, where Roman tourists could see the Spartans do their crazy Spartan stuff.
 
-Alaric the Visigoth sacked Sparta in 396 CE. And until this trip I could not have told anyone a single thing that happened in the Peloponnese until the 20th Century.
+Alaric the Visigoth sacked Sparta in 396 CE. And until this trip I could not have told anyone a single thing that happened in the Peloponnese until the 20th Century (and that would have been limited to “I think I visited Olympia in 1981, as a child).
+
+![Spectular landscapes everywhere!](images/landscape.jpg)
 
 I knew nothing of [William II of Villehardouin](https://en.wikipedia.org/wiki/William_II_of_Villehardouin) brought the Peloponnese into the [Frankish Principality of Achaea](https://en.wikipedia.org/wiki/Principality_of_Achaea), nor how after 1259 CE it was the capital of the [Byzantine Despotate of the Morea](https://en.wikipedia.org/wiki/Despotate_of_the_Morea). 
 
@@ -147,7 +153,7 @@ Stemnitsa was a center of metal-work, from find-work like jewlery (there is stil
 
 Dimitsana milled grain and pressed olives for oil, but if you are good at milling you can also mill gunpowder. With Stemnitsa providing locks and barrels for muskets, Dimitsana providing powder, and Valtetsiniko providing the “furniture” (the stock), central Arcadia was the “Arsenal of Greek Independence.” 
 
-[Image - village]
+!["Many Arcadians knew how to fight" — Homer](images/warriors.jpg)
 
 
 

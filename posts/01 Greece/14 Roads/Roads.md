@@ -1,9 +1,10 @@
-
 # Roads 
+
+![Amy on a trail on Attavyros.](images/amy_road_video.mov)
 
 ## (Not Rhodes… that’s coming later)
 
-[picture sack of Troy]
+![The Sackk of Troy](imags/aeneas_troyfalls_3medieval-1825827011.jpg)
 
 >| “[Heracles] who once came here for the mares of Laomedon
 >| With only six ships and a few men,
@@ -23,15 +24,15 @@ The passage of the *Iliad*, Book 5 (above) recounts the *first* time Troy was sa
 
 Homer uses [**ἀγυιά** (*aguia*)](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n967) to refer to the streets of a city.
 
-[picture city streets]
+[The Streets of Troy?](images/village-840355_960_720.jpg)
 
 ## ΟΔΟΣ (*Odos*)
 
 But the word for “road” or “street” that everyone learns in First Year Ancient Greek is [**ὁδός**, *hodos*](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n72092). We learn it because it gives us *odometer* and the Biblical book of *Exodos*, and also because it is one of the relatively rare feminine 2nd Declension nouns.
 
-And modern Greek seems to use **οδός (*odos*, note the lack of an ‘h’, since Greek lost the Aspirate over the centries) for the streets of a city. For example, there is [Οδός Αιóλου, Aiolou Street, named after Theseus’ father](https://en.wikipedia.org/wiki/Aiolou_Street) in Athens. But also, little tiny—very tiny—streets in itty-bitty rural villages like Vitina in Arcadia are labelled with ΟΔΟΣ.
+And modern Greek seems to use **οδός** (*odos*, note the lack of an ‘h’, since Greek lost the Aspirate over the centries) for the streets of a city. For example, there is [Οδός Αιóλου, Aiolou Street, named after Theseus’ father](https://en.wikipedia.org/wiki/Aiolou_Street) in Athens. But also, little tiny—very tiny—streets in itty-bitty rural villages like Vitina in Arcadia are labelled with ΟΔΟΣ.
 
-[Picture of street sign in Vitina]
+[Picture of street sign in Vitina](images/vitina.jpg)
 
 [Ὁδός (*hodos*)](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n72092) turns up on Homer and other ancient literature, but it seems usually to be a road outside of town, not a city street, as in this vivid simile about bees along a trail:
 
@@ -65,7 +66,7 @@ In Sophocles’s play, *Oedipus Tyrannos*, no one actually says *triodos*, as fa
 
 > — Sophocles, *Oedipus Tyrannos* 732–734
 
-[ road to delphi ]
+[The road to Delphi, where, like, 40 roads come together.](images/delphi.jpg)
 
 Later, we get the “triple” aspect of the fateful road when Oedipus recounts to Jokasta his version of events:
 
@@ -82,7 +83,7 @@ So that’s ὁδός, *hodos*! Remember, Ancient Greek students, it is second 
 
 As we hike around Greece in the 21st Century, often we are not on an *odos* but on a *monopati*.
 
-[Sign for monopati]
+[Sign for the monopati. Stay on the monopati!](images/monopati-sign.jpg)
 
 Ancient Greek does not seem to have *monopati*, but we can see where it comes from. In *Iliad* 20, Poseidon tells Athena that they should…
 
@@ -96,7 +97,7 @@ And in Book 6, Homer says that the hero Bellerephon, when he became hateful to t
 
 [πάτος [ᾰ], ὁ,](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n80019) is a “beaten track; footpath” in Ancient Greek, so our μονόπατι is a *mono-patos*, a “single-track”.
 
-[ picture of single-track trail] 
+[A perfect *monopati*.](images/monopati.jpg) 
 
 ## ΔΡΟΜΟΣ (*Dromos*), ΚΩΜΑ (*Κōma*), ΠΕΖΟΣ (*Pezos*)
 
