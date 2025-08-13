@@ -4,7 +4,7 @@ If you visit the little village of [Kavousi](https://en.wikipedia.org/wiki/Kavou
 
 You can seek refreshment at [Café Chez George](https://maps.app.goo.gl/qoYiePT9DwJ5Fgvg7) or a lovely and substantial dinner at [Ntakos](https://maps.app.goo.gl/AYUdngVJhSqVFU3z6). Or you can buy [rusks, or *paximadia*](https://greekreporter.com/2022/05/14/paximadia-the-cretan-greek-superfood/) in bags from [Café Chez George](https://maps.app.goo.gl/qoYiePT9DwJ5Fgvg7) and make your own [Ndakos, or Ntakos, or Dakos, salad](https://www.simplyrecipes.com/dakos-salad-recipe-5193718)!
 
-![Tholos beach.](images/tholos_drone.mpg)
+![Tholos beach.](images/tholos_drone.mov)
 
 The [Tholos Beach](https://www.crete-today.com/tholos-beach/) is a 30-minute walk downhill from Kavousi, through olive groves. There is a little cantina there, a pebbly beach, and the easiest hike in the world to an ancient Roman tholos-shaped granery.
 
