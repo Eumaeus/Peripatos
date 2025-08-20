@@ -57,6 +57,15 @@ body {
     font-size: 2em; /* Larger main text */
 }
 
+#content ul {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+#content ul li {
+    margin-bottom: 1em;
+}
+
 #content {
   position: relative; /* Not strictly needed here but useful if you add other positioned elements later */
 }
