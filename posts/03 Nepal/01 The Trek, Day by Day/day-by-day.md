@@ -635,6 +635,8 @@ The stoves in the dining room, on the other hand, were powered by yak dung. Ther
 
 The Everest Summit Lodge has two levels of accommodation, basic and "comfort." We saw other tourists who were clearly staying there, but they didn't appear in our dining room because they weren't on the comfort package. We had the place to ourselves.
 
+![Chris reports that he "froze his butt off" on the side of the mountain capturing this time-lapse of Nupste (left), Everest (center), and Lhoste (right).](images/MMNT_LAPSE_20250503170413599.MOV)
+
 
 ## Day 7: Ama Dablam.
 
@@ -706,7 +708,314 @@ The dining room was cold when we entered before dinner. Like, down jacket on top
 
 ![Custom is to pour kerosene or lighter fluid or something onto the dung to help it ignite.](images/Ama_stove_IMG_6242.jpg)
 
-We had another early night. This evening there was no view of Everest or anything else, and we were tired. It was good to sleep!
+![After seeing very little on the actual hike up Ama Dablam, Chris got this sunset timelapse from our inn.](images/MMNT_LAPSE_20250503182137480.MOV)
+
+We had another early night. This evening, after the sun set on Ama Dablam, there was nothing to see, and we were tired. It was good to sleep!
+
+
+
+## Day 8: Pangboche--Phortse
+
+We did the [Everest Lodge-to-Lodge hike](https://www.wildernesstravel.com/trip/nepal-everest-lodge-hiking-tour/) in the spring of 2025. (Well, technically, we were on the [Everest Private Journey](https://www.wildernesstravel.com/trip/everest-private-journey/), but the itinerary is basically the same) [Wilderness Travel](https://www.wildernesstravel.com) did a great job of organizing it!
+
+A good time was had by all!
+
+
+### May 5: Hiking to Phortse
+
+![A sign pointing the way to Phortse, spelled etymologically.](images/Phortse_sign_IMG_6251.jpg)
+
+This was the day that I fretted the most about in my pre-departure obsessive reading on all things Everest. Why? Blogs like [this one](https://www.alessprocessedlife.com/2011/12/nepal-trek-day-nine-phortse-pangboche.html), that describe four hours of walking along a steep drop-off. Or [this one](https://teessidewandering.wordpress.com/2017/04/06/day-12/), with its comment, "The trail was a little hairy in places, particularly towards the end...." 
+
+Bala assured me that this trail was in fact one of the most beautiful on the route, and that scary tales were surely describing the old, lower trail, one that locals still use because it's shorter but that is now disparaged among trekkers. He promised that the new trail was wide, well-maintained, and never exposed.
+
+I didn't entirely trust him.
+
+My fear was that this would be even scarier than the day Chris and I walked from Grüben to St. Niklaus on the Haute Route in Switzerland, where we encountered a washed-out gulley that STILL gives me nightmares. I wondered what would happen if I reached a bit of trail I simply couldn't bring myself to traverse. That day in Switzerland, I briefly considered the possibility of walking back to Grüben, even though we'd be walking six hours by that point--and had already crossed the pass of the day. I supposed I could always return to Pangboche and we'd figure it out from there.
+
+![Chris did that whole trail in Switzerland with his right arm in a sling. This is him stopping to take his meds right before the scary bit, which you can see behind him. That Swiss trail was WAAAY scarier than anything we saw in Nepal!](images/Switzerland_Chris_IMG_9057.jpg)
+
+This day was a good lesson in why it's dumb to fret about stuff before you actually see it. This trail was one of the most beautiful, show-stopping experiences of the entire trip, and it never got scary.
+
+We were up early as always. We were both getting tired, our "leisurely" adjustments to the itinerary notwithstanding. It's just hard to walk in the mountains every day, to be cold all the time, and to never have any real downtime. We still struggled to catch our breath when we went above 14,000 feet. 
+
+![Leaving Pangboche](images/Phortse_leaving_pangboche_IMG_6246.jpg)
+
+The trail between Pangboche and Phortse contours around the south-facing mountainsides north of the Dudh Khosi. It parallels the trail we'd walked two days earlier from Tengboche to Pangboche, but higher up and on the other side of the river.
+
+![Looking back toward Pangboche and Ama Dablam, coyly peeking out from the clouds this morning.](images/Phortse_back_to_Ama_IMG_6325.jpg)
+
+![We had a good perspective on Tenboche on top of the ridge and Deboche below; it was a great view of the way we'd come two days earlier.](images/Phortse_TengbocheDeboche_IMG_6356.jpg)
+
+It was definitely the trail that appeared in the [Stairway to Heaven blog](https://teessidewandering.wordpress.com/2017/04/06/day-12/) that I linked to above, so ymmv. Maybe I'm just less scared when Bala is around, or have less oxygen to waste on pointless emotions. But a big part of it is that this trail is simply wider. That makes such a big difference in comfort.
+
+![This is the same shot that was in that blog! Plus a cave.](images/Phortse_cave_trail_IMG_6294.jpg)
+
+![The trail definitely had some steep spots.](images/Phortse_porter_IMG_6362.MOV)
+
+Just before we reached Phortse, Bala grabbed me and said that the next section would indeed be a little scary, but it was short and I could manage it. This, you see, is good guide-craft. He got me through 95% of the walk believing that I wasn't going to freak about anything full well KNOWING that there would be some stuff that would be hair-raising. We were so close at that point, I figured I'd manage.
+
+And... I didn't have to! We rounded the bend to discover that the trail had been completely redone and modernized with concrete and metal railings. It looked like a western tourist establishment, and there was absolutely nothing to fear there. 
+
+![This trail was NOT scary!](images/Phortse_good_trail_IMG_6409.jpg)
+
+![And there's Phortse!](images/Phortse_IMG_6431.jpg)
+
+Phortse (pronounced FOR-che) is a Sherpa settlement on a sunny shelf, the type of terrain that lends itself to terraced potato fields. [Phortse](https://www.natureloverstrek.com/blog/phortse-trail-as-an-alternative-to-the-tengboche-trail.htm) is often held up as an off-the-beaten-track town, or a good alternate route to and from EBC that skips the crowds going the usual way through Tengboche. While the trail we'd just walked was far from deserted--we saw tourists and porters moving in both directions--it wasn't nearly as busy as the trail between Tengboche and Pangboche. 
+
+![Entering Phortse.](images/Phortse_entering_town_IMG_6445.jpg)
+
+![Yak dung drying prior to being burned in stoves.](images/Phortse_dung_IMG_6442.jpg)
+
+We were the only guests in the Sherpa lodge where we stayed that night. This was another no-shower place (we might have been able to pay for them? I never figured that out and didn't care because I'd taken advantage of our gas-powered shower that morning in Pangboche.) The toilets were down the hall; Bala put a Wilderness Travel sticker on the door of the "western" toilet so we wouldn't accidentally be dismayed by the Asian one. There were no outlets in our room, but we could charge our devices in the dining hall.
+
+![Lunch: Sherpa stew, french fries, and a veggie pie. Sherpa lodges don't do low-carb.](images/Phortse_lunch_IMG_6451.jpg)
+
+After lunch, we lay down for a couple of hours. I found myself wanting to squeeze rest into as many moments as possible.
+
+![Our room, with a lovely view over town.](images/Phortse_room_IMG_6456.jpg)
+
+That afternoon, Bala took us on a little tour of the town to see the Khumbu Climbing Center, where we shook hands with Conrad Ankar himself, and then out to the forest to look for birds. On the way back to our lodge, we stopped at his friend's house for tea. 
+
+![The Khumbu Climbing Center provides climbing training to locals so they can get better-paying technical jobs on expeditions.](images/Phortse_KCC_IMG_6472.jpg)
+
+![There are yaks in Phortse.](images/Phortse_yak_IMG_6479.jpg)
+
+![There are also potato fields.](images/Phortse_potato_fields_IMG_6513.jpg)
+
+![We spotted a danphe, the Nepali national bird; it looks a little like a peacock.](images/Phortse_danphe_IMG_6496.jpg)
+
+Mila Dai joined us at dinner that evening. The Sherpa girls made us dahl baht, the traditional Nepali dish of lentils and rice. That was the only day on the trek that we had this classic dish, though I read that it's typical daily fare for most trekkers. 
+
+Someone from the Khumbu Climbing Center called to invite us to come watch a documentary that evening, which was very sweet, but we were so very tired, the KCC seemed so very far away (and the paths through town so very dark and muddy), and the movie would start at 9. That was a good half hour after our bedtime.
+
+One thing Chris had looked forward to on this trip was the chance to do dark night photography, and a remote Sherpa village seemed like it would be the ideal spot. It was not to be. Phortse, like every other place we stayed, had ample night-time light in the form of street lights, and we were never awake much after dark anyway.
+
+## Day 9. Phortse to Namche Bazaar. 
+
+![Chris and Bala check out an old house in Phortse. Livestock can stay in the bottom to help heat the top.](images/Phortse_house_IMG_6524.jpg)
+
+Both of us woke up with cracked, chapped lips. Chris seemed to have caught a cold.
+
+The dining room was freezing. Our hosts didn't bother to light the stove that morning, so we huddled in our down jackets and warmed our hands on cups of tea. 
+
+![Morning in Phortse](images/Phortse_morning_IMG_6523.jpg)
+
+![We stopped for coffee at the Khumbu Climbing Center.](images/Phortse_KCC_IMG_6527.jpg)
+
+![This painting at the KCC is a great depiction of the Khumbu trails and towns!](images/Phortse_painting_IMG_6528.jpg)
+
+The trail back to Namche took us through town back to the forest we'd briefly explored yesterday and then down to the river. 
+
+![Looking upriver toward the Gokyo lakes area, where we should definitely go next year!](images/Phortse_upriver_IMG_6539.jpg)
+
+We crossed on a low bridge, passed the town of Phortse Tenga, and then climbed back up level with Phortse and higher still. 
+
+![It is a stiff climb!](images/Phortse_Tenga_up_IMG_6569.jpg)
+
+![We had a great view of Phortse, situated on its high shelf.](images/Phortse_Tenga_backtoPhortse_IMG_6599.jpg)
+
+When we reached the top, we stopped for tea at the View Point Guest House in Mong La. 
+
+![We had a great view of more clouds.](images/MongLa_IMG_6616.jpg)
+
+The trail from Mong La back to Kyangjuma is charming, open and wild and with a great view down to the many helicopters following the river up the valley. This trail is higher and narrower than the main trail to Tengboche but gives a much more "mountain" vibe. 
+
+![This was really a lovely trail to walk!](images/MongLa_trail_IMG_6622.jpg)
+
+![Better stand aside!](images/MongLa_jokyos_IMG_6640.MOV)
+
+![Yaks graze on the hillsides. Well, naks, not yaks. The yaks are all busy hauling stuff.](images/MongLa_nak_IMG_6646.jpg)
+
+![After a series of staircases down, we met up with our old trail.](images/MongLa_stairs_IMG_6662.jpg)
+
+We had lunch at Tashi's place in Kyangjungma, the Ama Dablam Lodge & Restaurant. Mila Dai, who was of course way ahead of us, had stopped in to order yak burgers for us.
+
+![Yak burger!](images/MongLa_yak_burger_IMG_6678.jpg)
+
+The walk from there to Namche seemed easy. It was more down than up, and all that acclimatization at higher altitudes must have been making a difference because the walking stopped being difficult. Bala was in a bit of a rush too, eager to get home and get a bit of a break. We did that last stretch in under 90 minutes.
+
+![We passed the same stupa as before, this time socked in with clouds.](images/Namche_stupa2_IMG_6702.jpg)
+
+The Mountain Lodge put us in our former room's twin on the opposite side of the hotel. It felt like coming home, except this time the electricity worked!
+
+This room had a view of the entrance to the school. It was charming to see the kids playing at recess; they all seemed happy to be there, and happy to head home when school let out. After the kids left, several local cows wander into the gate to hang out in the school yard.
+
+We were on our own for dinner. Bala ate with Mila at his house. Without his constant supervision, we felt free to drink TWO rum punches (they are not very strong....) and to display loss of appetite if we so desired!
+
+## Day 10: Namche to Monjo. 
+
+![Our last view of Namche, nestled in the clouds this morning.](images/Namche_cloudy_last_view_IMG_6713.jpg)
+
+This morning we had a slightly late breakfast and departure because Bala needed to hang new prayer flags on his mother's house, or something along those lines. It didn't matter because today's walk was short and downhill.
+
+We were only going to Monjo, the place we'd stopped for lunch on our second day hiking. Some treks walk all the way from Namche to Lukla on the last day, and I'm pretty sure that would've been possible, but it would also have made for a pretty long hike. I suppose the travel agencies don't want to take chances on that crucial last day. And it was nice to explore Monjo.
+
+We left the lodge and walked down into town. The steps STILL seemed really large and uneven! 
+
+![We finally got more money from a functioning ATM! Chris kindly took a picture of this tour group from the US.](images/Namche_tourists_IMG_6715.jpg)
+
+Bala took us to a gift shop so I could by a mala, or set of prayer beads, for my brother. He wanted to make sure I got the genuine article made of real bodhichitta seeds and not Chinese schlock.
+
+![I wore that mala for the rest of the trek to imbue it with good Khumbu karma.](images/Mala_IMG_6943.jpg)
+
+The walk from Namche down to the Hillary Bridge was so much easier than the walk from the Hillary Bridge up to Namche it almost seemed like they were different trails. 
+
+![Everything seemed easy now!](images/HillaryBridge_us_IMG_6733.jpg)
+
+![we passed several porters carrying loads of construction supplies uphill. There's a lot of construction going on in Namche right now, and this is how supplies are brought in. Bala says some of these guys carry something like 200 pounds on their back.](images/HillaryBridge_porters_IMG_6748.MOV)
+
+Because I'd complained about the state of the regular trail walking up to Namche (loose, dusty, steep, and not really a trail at all), Bala took us on the higher trail used by the donkey trains. This trail is wide and well-maintained. I noticed that large sections of it were muddy. This happens sometimes in South Carolina state parks, due to water seeping out of the hill, and I assumed that this was what was going on. But when I asked Bala what caused the periodic mud patches, he said, "All the donkeys in a group pee and poop at the same time."
+
+Wait... this was pee?
+
+That was when I asked Chris not to walk to close to me, lest we foul one another's steps and both end up slipping into pee-mud.
+
+![This deer crossed our path around Jorsalle.](images/Jorsalle_deer_IMG_6780.mov)
+
+![We walked back out of Sagarmatha National Park.](images/Park_leaving_IMG_6790.jpg)
+
+We arrived at Monjo around lunchtime. 
+
+![The monks had nearly finished painting the mantra stones that they'd been working on the last time we visited.](images/Monjo_mantra_stones_IMG_6797.jpg)
+
+![The lodge there had put us in the nicest room, huge and bright!](images/Monjo_room_IMG_6802.jpg)
+
+After lunch, Bala took us on a late-afternoon walk up above town. Unbelievably, we STILL gasped for breath while climbing! 
+
+![We saw some of the most amazing birds. This is a forktail.](images/Monjo_forktail_IMG_6820.MOV)
+
+![Looking down on Monjo.](images/Monjo_view_IMG_6853.jpg)
+
+That evening, Bala cooked his special spicy pork appetizer for us to enjoy during happy hour.
+
+He told us a long-promised story about Yetis. Apparently, long ago in the past (distant or perhaps not-so-distant), the yetis lived on the hillsides above the towns in the Pangboche region. They are high-altitude cold-adapted species like snow leopards or yaks. 
+
+The yetis were fascinated with human societies. Every day, they would watch the humans going about their business, working in the fields, building fires, and herding animals. Then every night, the yetis would act out their own interpretation of what the humans had been doing.
+
+The humans decided that they could exploit this behavior to eliminate the yetis. One day, they brought out barrels of alcohol and piles of weapons. They pretended to drink from the barrels and then to fight with the weapons.
+
+That night, the yetis came down to the village and found the props still laid out. They proceeded to enact what they thought they had seen, but they actually drank the alcohol. This made them drunk, so that when they came to fight with the weapons, they really fought. They fought so hard that all of them died except for one male and one female. This pair retreated to the mountains, where they perhaps maintained some vestigial yeti population.
+
+This story.... so much to unpack! It makes me think that some group of hominids that could be seen as yetis might well have existed and were genocided by humans, as might have happened with our Neanderthal cousins or with other groups of native human groups. 
+
+![Dinner menu](images/Monjo_dinner_IMG_6804.jpg)
+
+## Day 11: Monjo to Lukla. 
+
+
+I awoke to texts from our kids reporting that they had arrived in Kathmandu and checked into the Ramada with no difficulty. This was good! We were starting to get anxious about returning to the city on time and plunging directly into wedding activities.
+
+Our lips were still beyond chapped. They stayed dry, cracked, and bleeding for several days after we got back to Kathmandu.
+
+Bala had us start out early this morning and kept up a brisk pace. He wanted to get into Lukla early so that he could visit the station master at the airport and move us to an earlier morning flight to Kathmandu the next day.
+
+![Mila Dai was up and ready to go!](images/Monjo_Mila_IMG_6871.jpg)
+
+![This was almost the only cat we saw the whole trek.](images/Lukla_cat_IMG_6889.jpg)
+
+The trail was crowded for the first time this trip. Hordes of tour groups were heading uphill toward base camp, perhaps because the weather finally looked promising. Some of the Indian groups looked like they had 40 or 50 participants. This was the sort of crowding I'd half expected and had been pleasantly surprised to avoid. September and October are the real high season, though; the clear weather would be an attraction, but it would be hard to have to deal with constant crowding on the trails.
+
+![The traffic had picked up!](images/Lukla_traffic_IMG_6913.MOV)
+
+![We stopped for tea on a sunny terrace.](images/Lukla_tea_IMG_6910.jpg)
+
+![We broke for lunch at the Mountain Lodge in Phakding, where we'd spent our first night.](images/Phakding_lodge_IMG_6940.jpg)
+
+Bala wanted us to eat a quick, light lunch, and Chris and I were down with that, but evidently the Mountain Lodges don't do quick and light. We sat at the table for over an hour, first enjoying herbal tea and cookies and then having a spicy potato appetizer, fried chicken sandwiches, and dessert. So much for out anticipated weight loss on the trail!
+
+Bala set a brisk pace for the last section of the trail. No more lingering or stopping to take a million pictures for us! We arrived at the Lukla Mountain Lodge in mid-afternoon, with plenty of time for Bala to complete his errand.
+
+It was STILL hard to climb all those steps up to the Lukla Mountain Lodge!
+
+The hotel manager promised us plenty of hot water for our showers. This was a false promise. The water wasn't even trying to be hot. The bathrooms also had that odd set-up where the shower isn't contained at all, which meant that the bathroom floors were entirely soaked. 
+
+Ah well! We knew not to expect perfect luxury on this trek. At least we were clean.
+
+We took a brief walk through town, mainly to visit the Lukla Gear shop (didn't see anything we wanted) and the airport. 
+
+![Seems like it's always cloudy or raining in Lukla.](images/Lukla_house_IMG_6953.jpg)
+
+![The runway is indeed very short and visibly slanted downhill.](images/Lukla_runway_IMG_6963.jpg) 
+
+Bala insists that the Lukla airport's reputation as "the most dangerous airport in the world" is completely undeserved, and that it has a very good record of flights safely taking off and landing. 
+
+![There's a gold statue of Tenzing Norgay and Edmund Hillary at the Lukla airport.](images/Lukla_airport_statue_IMG_6959.jpg)
+
+Tonight was the only night we ate out at a town restaurant instead of in the Mountain Lodge's own dining room. Before dinner, we met Bala and Mila in the lobby for the grand gear giveaway. I gave the two of them nearly all my clothes and gear. Bala had already claimed my Ghost Whisperer for his wife and my Leki cane for his mother, and was happy to take my North Fake duffel from Thamel for his own gear. Mila accepted everything I offered, including dirty leggings and Uniqlo Heattech shirts with rips in the collars. He was especially delighted to receive my rain pants, which he'd carried to Pangboche and back and I'd never worn. Chris handed over most of his batteries to Bala. 
+
+> Tip: Don't buy those "solar powered powerbanks" you see on Amazon. There is no universe in which they will charge fast enough to be useful. You can walk to electricity much faster than they can charge, even under the brightest sun. Unless you are going to the South Pole or something, they just add weight and expense. 
+
+![Mila Dai was delighted to receive a purple Furman University t-shirt; he put it right on to wear to dinner.](images/Mila_Furman_IMG_6957.jpg)
+
+This giveaway is customary, and it is one of the reasons why you see rural Nepalis who might make $1300 a year going around in North Face and Patagonia. I realized that part of our journey to the mountains was as importers; shipping to the Khumbu faces all the same difficulties that just plain traveling does, so visitors leaving gear and clothing behind kills two birds with one stone. 
+
+
+Before we left the U.S., I'd asked Hunter at Wilderness Travel how much we should give in gratuities. She replied "Tipping is ultimately up to your discretion, but you can use a suggestion of around $10/trekking day for the porter and $15/day for the main guide. Either USD or rupees are fine to use for tipping. You’ll have the same guide and porter throughout, so you can tip at the last dinner at the end of the trek."
+
+We followed these guidelines and had actually brought that cash in envelopes with us from the U.S. Chris had been adding to the amounts as we traveled--once we saw how much work it is to trek and carry in Nepal, we really appreciated the effort the guys were making!
+
+We walked through town and behind the end of the runway to a restaurant, where we struggled to make conversation with Mila. He speaks no English and maybe not even much Nepali (he's a Rai, a Christian ethnic group), so Bala had to interpret absolutely everything. But it was interesting. Mila is in his late 50s. He lives two days walk downhill from Lukla. His oldest son is 30, and his youngest child (of four?) is in his early teens. The oldest son still hasn't finished high school, and allegedly claims that he won't marry until he hits this milestone. It can take the mountain kids years to finish grades because they are needed to work the farms and tend the livestock. Also, the schools can be long walks from their homes.
+
+Chris handed over our tips at the end of dinner. He did this somewhat formally--in Nepal, it's polite to hand gifts to people with both hands, and they receive them the same way.
+
+This was another early night for us. All we wanted that trip was to go to bed early and sleep as long as we could.
+
+## Day 12: Lukla to Kathmandu. 
+
+We were up at dawn as usual. It was odd to eat breakfast among other tourists. The Mountain Lodge was getting set up for a visit by VIPs, with tables out on the patio.
+
+Bala and Mila were both happy that morning, which we hoped meant that they'd been pleased with their gratuities.
+
+We walked out to the airport at 8 to catch our 9 a.m. flight. 
+
+![A successful takeoff!](images/Lukla_takeoff_IMG_6972.mov)
+
+The Lukla airport is alarmingly chaotic, with a polyglot crowd of tourists and locals all anxious to land seats on flights back to Kathmandu. Everyone is first supposed to go through a security check to enter the airport, though people seem to cut around it all the time. There are no signs or announcements of departures. It looks like lots of people just show up there hoping to fly out that day without existing reservations. We were very happy to have Bala to navigate the logistics for us. 
+
+![It would be extremely intimidating to face this scrum alone!](images/Lukla_airport_chaos_IMG_6973.jpg)
+
+The airport was running flights to Ramenchap first. Bala told us to settle in and wait; we were clearly not departing at 9! 
+
+![Four planes would load at once, staggering takeoffs and landings.](images/Lukla_planes_IMG_6977.jpg)
+
+We sat at a table in the "coffee shop" area and watched the same Twin Otters take off and land repeatedly. It took them about an hour to do a round trip, and at least two rounds of this happened before our flight was called to go through the actual security check, along with getting our names checked off on a handwritten list.
+
+We then sat in the gate area for another half hour or so. When our flight seemed to be getting close, Bala had us walk up to the door to the tarmac and form the beginning of a line. He was keen on our landing seats on the right side of the plane, which look north toward the mountains we'd just walked through. (There are no assigned seats on these flights. It's every man for himself.)
+
+We finally boarded our plane at 11:20. Everyone crowded in; they fit in as many seats as possible, and there's no storage for hand luggage. I just stuffed my backpack on the floor in front of my feet.
+
+The takeoff went quickly--we'd watched a bunch of planes use this runway, and they all achieved liftoff well before the end of it. The pilots made this all look easy.
+
+The beautiful views of the mountains didn't materialize; the clouds had rolled in again, so we mostly saw mist. But we could still see the mountains (foothills?) close to us, with their red rhododendrons and dirt roads winding up the steep sides.
+
+We had to circle Kathmandu before landing. This is common; the Kathmandu airport has too much traffic. This is one reason most domestic flights take off and land from Ramenchap. We were very fortunate to have a direct flight to Kathmandu. Even with a delay of more than two hours, we got into town much earlier than we would have flying to Ramenchap and then driving to Kathmandu, which would've taken all afternoon.
+
+Pankaj met us at the baggage claim. He'd already been at the airport at dawn to collect my sister, brother, and nephew, who'd all flown in for the upcoming wedding. He reported that everything had gone well and that he'd handed Madeleine the dress I'd bought for her two weeks earlier. 
+
+We said goodbye to Bala, who was off to see his mother and daughters. Then we climbed into our taxi and headed off to the Ramada. We reached the hotel by 12:45, in time to meet the gang for lunch nearby.
+
+And with that, our Everest Lodge-to-Lodge experience came to an end! It was time to do a hard pivot to a South Asian wedding!
+
+## Aftermath: Big Kathmandu Wedding
+
+We returned to Kathmandu for a big family wedding, uniting our American family with a large Nepali family. 
+
+This is a story about our trek, not about our family and friends who did not necessarily agree to feature in a travel-blog. But we can say that it was an amazing experience: warm, generous, spiritual, meaningful, lively, fun, and often exhausting! 
+
+![There were many events, including the super-fun "Henna Ceremony".](images/IMG_7186.jpg)
+
+![Lots of dancing, over many days, is required for a Nepali wedding.](images/IMG_8071.JPG)
+
+![We had to dance. A lot. The sunglasses are mandatory, evidently.](images/_THA0481.JPG)
+
+![And we got to see the famous "Monkey Temple" in Kathmandu.](images/IMG_83482.mov)
+
+Suffice it to say, we now have a built-in excuse to return!
+
+Thanks for reading, y'all!
+
+
 
 
 

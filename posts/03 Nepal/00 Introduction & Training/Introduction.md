@@ -18,7 +18,7 @@ The problem is that modern Greece isn't ancient. No matter where we went, we cou
 
 But! There are still a few places in the world where the wheel has yet to make an impact. In fact, there are places where the wheel will probably never take over because it simply can't. 
 
-![Porters carying stuff. Every doorknob, case of beer, or bottle of propane gets up in there on the back of a human or animal.](images/Deboche_wide_trail_IMG_5700.jpg)
+![Porters carying stuff. Every doorknob, case of beer, or bottle of propane gets up in there on the back of a human or animal.](images/HillaryBridge_porters_IMG_6748.MOV)
 
 Meet the [Khumbu Valley](https://www.discoveryworldtrekking.com/blog/khumbu-region).
 
