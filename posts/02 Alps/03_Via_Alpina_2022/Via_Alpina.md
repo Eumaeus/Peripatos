@@ -1027,6 +1027,18 @@ Because today's stage was nearly 23 kilometers, we once again availed ourselves 
 
 We walked the [most beautiful balcony path](https://schweizmobil.ch/en/hiking-in-switzerland/route-313) -- which abruptly transformed into a terrifying exposed landscape of narrow limestone paths and deep sinkholes. This is known as the [Gryden](https://betelberg.ch). No one else seems scared by this stuff....
 
+![The Gryden, yay.](images/IMG_8419.jpg)
+
+![A particularly slippery and slanted bit.](images/IMG_8418.jpg)
+
+![I managed to get through, even if it wasn't pretty and these old Swiss guys were just tromping by in their boots.](images/IMG_8015.MOV)
+
+![It was the drop on the side that bugged me.](images/IMG_8017.jpg)
+
+Then we went through Trutlisbergpass. This pass wasn't a big deal -- we almost didn't notice that we'd crossed one.
+
+![Chris regrouping for the next stage of the hike.](images/IMG_8423.jpg)
+
 ![These might have been young male cattle hanging out for their fun summer before adult responsibilities. They were going nuts.](images/Lenk_cows_running_IMG_8435.MOV)
 
 Then it was a sweet and easy descent into and through a long valley to the town of Wintermatt. 
@@ -1092,7 +1104,7 @@ The last descent was narrow, slippery, and scary at times -- Alpine trails never
 
 We arrived in town right just after those three young people jumpted onto the bus we wanted and it drove away, which meant we had to wait an hour for the next one. 
 
-![We spent the time enjoying a snack of potato chips, ice cream, and cokes, like we were American middle-schoolers.](Letivaz_snack_IMG_8551.jpg)
+![We spent the time enjoying a snack of potato chips, ice cream, and cokes, like we were American middle-schoolers.](images/Letivaz_snack_IMG_8551.jpg)
 
 ![These shoes had given me good service over 300+ kilometers! But I decided it was time to retire them.](images/LEtivaz_shoes_IMG_8552.jpg)
 
@@ -1164,7 +1176,7 @@ But! We got through. We'd upgraded to business class, so we could enjoy the prim
 
 ![The prime lounge has an outdoor deck with a great view of the runway.](images/Zurich_airport_IMG_8646.mov)
 
-There's not much to say about flying home. Lie-flat beds are very nice, though I also found them weirdly isolating. I did get some work done on the plane, which never happens, so that was good. Global entry was super easy in Philly. Our son collected us in Charlotte, and we were in bed by 10:00.
+There's not much to say about flying home. Lie-flat beds are very nice, though I also found them weirdly isolating. I did get some work done on the plane, which never happens, so that was good. Global entry was super easy in Philly. Our son collected us in Charlotte, and we were in bed by 10.
 
 And that was our Via Alpina! 
 
