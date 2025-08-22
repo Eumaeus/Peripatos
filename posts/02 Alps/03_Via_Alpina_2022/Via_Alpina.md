@@ -310,7 +310,7 @@ Then it was a short walk on to our accommodation. Alpine Exploratory had luckily
 
 ![The Hotel Klausenpass, or Klausenpasshohe](images/Klausenpass_hotel_IMG_6719.jpg)
 
-[We had a good steak for dinner, followed by this meringue, which looks like a marine arthropod from the Carboniferous period.](images/Klausenpass_meringue_IMG_6724.jpg)
+![We had a good steak for dinner, followed by this meringue, which looks like a marine arthropod from the Carboniferous period.](images/Klausenpass_meringue_IMG_6724.jpg)
 
 
 ## Friday July 22: Klausenpass to Altdorf 
@@ -388,8 +388,6 @@ We arrived at the pass around noon.
 
 Then there was still a LOOOOONG walk down the valley to Engelberg. So we got going! At least it was downhill.
 
-![Do you see a town off in the distance? No, of course not!](images/Surenenpass_to_Engelberg_IMG_6891.jpg)
-
 ![The poor cows were absolutely encased in flies.](images/Surenenpass_cows_IMG_6900.jpg)
 
 ![There was another self-service concession stand at a farm.](images/Surenenpass_farm_IMG_6907.jpg)
@@ -426,15 +424,15 @@ Engelberg is dominated by a peak (and commercial establishment) called [Titlis](
 
 The summit is well-developed, with shops (wanna buy a Tissot?) and restaurants and other tourist amenities. The place was mobbed with visitors, but we still got a great view of the surrounding mountains. We could see the Eiger and the Jungfrau off in the distance; we'd be heading into the Bernese Oberland next.
 
+![An amazing view of mountains.](images/Titlis_mountains_IMG_6946.jpg)
+
 ![The terrace up top.](images/Titlis_terrace_IMG_6951.jpg)
 
 ![There's still snow on the path leading to the [Titlis Cliff Walk](https://www.titlis.ch/en/activities/titlis-cliff-walk).](images/Bedrocks_IMG_7297.jpeg)
 
-![An amazing view of mountains.](images/Titlis_mountains_IMG_6946.jpg)
-
 ![The top of the Bernese Oberland, where we would head next. We took the time to identify what we were pretty sure were the Eiger, Mönch, and Jungfrau.](images/titlis_Oberland_IMG_6941.jpg)
 
-![Looking toward our future.](imagesTitlis_future_IMG_7303.jpg)
+![Looking toward our future.](images/Titlis_future_IMG_7303.jpg)
 
 ![Waiting for the panorama car to return to take us back down.](images/Titlis_panorama_IMG_6955.jpg)
 
@@ -482,9 +480,6 @@ The climb up to the pass probably took another two hours. It was uphill all the 
 ![Chris and I were NOT running uphill.](images/Jochpass_chris_IMG_7015.jpg)
 
 ![We had a great view of Titlis and the summit structure we'd visited the day before.](images/Jochpass_titlis_IMG_7032.jpg)
-
-![Climbing is fun!](images/![We had a great view of Titlis and the summit structure we'd visited the day before.](images/Jochpass_titlis_IMG_7032.jpg)
-)
 
 ![Almost to the Jochpass!](images/Jochpass_IMG_7039.MOV)
 
@@ -631,7 +626,7 @@ We got up early to catch the [Wengernalpbahn cog railroad](https://www.jungfrau.
 
 ![There goes the train! Tissot is a major sponsor of Alpine tourism.](images/Eiger_train_IMG_7324.mov)
 
-![We got off at Grund and walked up to Alpiglen and stopped for a coffee. And a bathroom break. The Bernese Oberland is not the place to pee behind a rock.](images/Alpiglen_coffee_IMG_7343.jpg).
+![We got off at Grund and walked up to Alpiglen and stopped for a coffee. And a bathroom break. The Bernese Oberland is not the place to pee behind a rock.](images/Alpiglen_coffee_IMG_7343.jpg)
 
 And then... we thought about how to spend the day. We'd been following our route cards so far, but they had us walking straight to [Kleine Scheidegg](https://www.thecatandthepeacock.com/blog/vintage-swiss-alps-kleine-scheidegg-and-the-wetterhorn), the pass opposite the Grosse Scheidegg, and then on toward Wengen, in the next valley over. A gorgeous walk, to be sure. But here we were, directly under the Eiger. The sun was actually out for once. And there was the [Eiger Trail](images/https://www.myswitzerland.com/en-us/experiences/route/eiger-trail-the-swiss-alpine-experience-trail/), which runs right under the north face of the darn Eiger! 
 
@@ -690,7 +685,7 @@ In Wengen, we walked through the rain to an outdoor shop, where bought a pair of
 
 ## Friday July 29: Wengen to Mürren
 
-![Morning in Wengen, and we've switched from the Eiger to the Junfrau!](images/Wengen_mist_IMG_7610.mov)
+![Morning in Wengen, and we've switched from the Eiger to the Jungfrau!](images/Wengen_mist_IMG_7610.mov)
 
 A short walk today! The full stage is only 9.6 km, and it's easy to eliminate some or most of it with a cablecar up and then a train to town, turning this into a nominal rest day.
 
@@ -722,7 +717,7 @@ The [Hotel Eiger](https://hoteleiger.com/en/), though -- it was luxurious! This 
 
 After an aperitif, we had a perfect dinner of chateaubriand and meringue glacée, just like Chalet Brandt used to make. 
 
-![Chateaubriand, but actually in the Bernese Oberland](images/Chateaubriand_IMG_7680.jpg)
+![Chateaubriand in the Bernese Oberland](images/Chateaubriand_IMG_7680.jpg)
 
 ![Meringe glacée. My brother won his future wife's affections by taking her to Chalet Brandt to get this for dessert back when they were in high school.](images/IMeringue_MG_7681.jpg)
 
@@ -773,13 +768,12 @@ At the Rotstockhütte, we fell in with the schedule of an Alpenwild group hiking
 
 ![We headed up this valley.](images/Sefina_beginning_IMG_7806.jpg)
 
-![We've already climbed a lot! Look how far away the Rotstockhütte is!](images/Sefina_beginning_IMG_7806.jpg)
 
 The walk to the Sefinafurgga is beautiful -- wild and glacial. The approach to the pass itself is ridiculously steep, so steep that the trail managers had added a ladder to the top of the scree, most likely just to preserve the mountainside.
 
 ![Getting closer to the pass.](images/Sefina_approach_IMG_7842.MOV)
 
-![Wait, that's the TRAIL?](images/Sefina_waitwhat?_IMG_7845.jpg)
+![Wait, that's the TRAIL?](images/Sefina_waitwhat_IMG_7845.jpg)
 
 ![Chris making it up the steep climb.](images/Sefina_Chris_IMG_7867.jpg)
 
@@ -787,9 +781,10 @@ The walk to the Sefinafurgga is beautiful -- wild and glacial. The approach to t
 
 ![The Sefinenfurgga is the smallest pass we've encountered so far. And it feels like you could fall off either side!](images/Sefina_IMG_7874.jpg)
 
-![Looking back the way we came.](images/Sefina_lookback_IMG_7875.jpg)
+![Looking back the way we came.](images/Sefina_lookforward_IMG_7876.jpg)
 
-![And looking forward to our next stop.](images/Sefina_lookforward_IMG_7876.jpg)
+![And looking forward to our next stop.](images/Sefina_lookback_IMG_7875.jpg)
+
 
 The view from the top was gorgeous, not gonna lie, but the longer I sat on that knife ridge, the less likely it felt that I would ever get up and walk down the other side. The other side consisted of more scary steps and ropes. The Swiss and Germans don't seem nearly as bothered by this terrain, though perhaps there's a selection process that has already happened. After the steps and ropes ended, there was nothing but a massive, steep, slippery scree field. I don't love that terrain.
 
@@ -1003,7 +998,7 @@ This area is built up with various tourism options. The trail is paved in places
 
 ![There's a Texas longhorn ranch on the far side of the pass.](images/Adelboden_longhorns_IMG_8347.jpg)
 
-![Chris loves parapenters and was ready for this guy to succeed -- he'd spent SO LONG laying out his parachute and all the lines, it's really too bad that fence was there!](images/Adelboden_parapent_IMG_8362.jpg)
+![Chris loves parapenters and was ready for this guy to succeed -- he'd spent SO LONG laying out his parachute and all the lines, it's really too bad that fence was there!](images/IMG_8361.MOV)
 
 We tried to get lunch at the [Metsch cablecar](https://lenk-simmental.ch/en/our-simmental/good-to-know/cable-cars/cable-cars-in-summer) station but it was too crowded, so we just took the car down to the valley. We could've done a long walk through the Simmefall waterfall, but chose not to.
 
@@ -1067,7 +1062,7 @@ The route of this section of the Via Alpina was in flux in 2022, hence yesterday
 
 We headed out for an early start, but discovered that the [Eggli cable car](https://bergbahnen-gstaad.ch/en/summer/information/rates) that we'd planned to take uphill didn't start running until 10. Oh well.
 
-![The view from the top, looking back in the direction of Gstaad.](images/Gstaad_glacier?_IMG_8477.jpg)
+![The view from the top, looking back in the direction of Gstaad.](images/Gstaad_glacier_IMG_8477.jpg)
 
 Once we got up to the higher trail, we had a lovely ridge and forest walk. We could sort of see the resort at the top of the [glacier](ColdeJable_cows_IMG_8513.jpg) that serves as a summer ski area in Gstaad. (We know of the existence of this glacier from *Return of the Pink Panther*, in which Lady Litton is reported to be skiing on a glacier in the middle of summer, though in fact she had gone to the tennis instead.)
 
@@ -1081,13 +1076,13 @@ Today's walk was quite easy, at least by Via Alpina standards, though it's possi
 
 Today, we crossed the Col de Jable, the pass that put us in French-speaking Switzerland. 
 
-![What an easy approach and a broad, grassy col!](images/ColdeJable_IMG_8533.mov)
-
 ![The Col de Jable is marked by a stone wall, serving no doubt to separate the languages from one another.](images/ColdeJable_IMG_8529.jpg)
 
 ![No more German from here on out! Well, at least not until we went back to Zurich two days later.](images/ColdeJable_IMG_8527.jpg)
 
 ![The col led to a lovely balcony trail.](images/LEtivaz_balcony_IMG_8543.jpg) 
+
+![A nice balcony trail!](images/ColdeJable_IMG_8533.mov)
 
 ![This trail passed through some farms; the owners simply ignore all the hikers that pass through their yards.](images/LEtivaz_farm_IMG_8544.mov)
 
@@ -1169,7 +1164,7 @@ But! We got through. We'd upgraded to business class, so we could enjoy the prim
 
 ![The prime lounge has an outdoor deck with a great view of the runway.](images/Zurich_airport_IMG_8646.mov)
 
-There's not much to say about fyling home. Lie-flat beds are very nice, though I also found them weirdly isolating. I did get some work done on the plane, which never happens, so that was good. Global entry was super easy in Philly. Our son collected us in Charlotte, and we were in bed by 10.
+There's not much to say about flying home. Lie-flat beds are very nice, though I also found them weirdly isolating. I did get some work done on the plane, which never happens, so that was good. Global entry was super easy in Philly. Our son collected us in Charlotte, and we were in bed by 10:00.
 
 And that was our Via Alpina! 
 
