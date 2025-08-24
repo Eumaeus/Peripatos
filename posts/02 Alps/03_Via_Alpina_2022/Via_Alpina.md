@@ -61,7 +61,7 @@ Our route cards from Alpine Exploratory often suggested variants for a day's wal
 
 Buses, trains, and -- best of all -- cablecars are everywhere. They are expensive, to be sure, but they're ubiquitous and easy to use. The ski lifts run all summer, the better to maximize tourist francs, and they are a godsend for trimming ascents and descents. The Swiss transit app is super easy to use, making transport really painless.
 
-![One of many Swiss trains.](images/Train_IMG_6581.jpg)
+![One of many Swiss trains. Chris had a toy one when he was 2 years old and living in Cold War Berlin. Brings back dim memories.](images/Train_IMG_6581.jpg)
 
 
 ## Difficulty
@@ -70,7 +70,11 @@ This goes along with distance, but the fact is, some passes are harder than othe
 
 Some of them are gentle and grassy. Others are steep, include trails along the edges of cliffs, and require long periods of walking through the sharp scree that is the result of big mountains slowly turning into small mountains.
 
-I am reasonably afraid of heights, or rather of exposure -- especially edges, but a big expanse of sky on one side of a steep slope will do it too. I found a lot of these trails disagreeably scary. I'm not the only one -- we encountered other American tourists who had the wits scared out of them by passes.
+I am reasonably afraid of heights, or rather of "exposure". 
+
+> "Exposure" here does not mean "getting cold and wet and hypothermic", but the psychological effect of being high up and seeing clearly how steep is the drop below you. A trail high on a cliff-side might be no problem in a dense fog, but when the fog lifts and you see the valley far below, down a steep drop, it is terrifying. That's "exposure" in this sense.
+
+Edges are especially scary, but a big expanse of sky on one side of a steep slope will do it too. I found a lot of these trails disagreeably scary. I'm not the only one -- we encountered other American tourists who had the wits scared out of them by passes.
 
 ![Chris descending the scree slope on the west side of the Sefinenfurgga.](images/Scree_descent_Serina_IMG_7898.mov)
 
@@ -87,9 +91,11 @@ Scariness and general climbiness were factors we considered when choosing modifi
 
 ### Shoes
 
-It's been many years since either of us has worn hiking boots. We've used Altra trail runners for all our Alpine hikes as well as hiking over Greece and Nepal. 
+It's been many years since either of us has worn hiking boots. We've used Altra trail runners for all our Alpine hikes as well as hiking over Greece and in the Nepali Himalayas. 
 
 ![Amy wore Altra Superiors, the lightest trail shoes Altra offers.](images/Altra_Superior_IMG_6651.jpeg)
+
+> On one of the final days of our Everest Base Camp trek, we passed a group going north, clumping along in their huge boots. Someone saw us and exclaimed "Trainers for trekking?" We said nothing, but inwardly were, like, "We've just done this whole trek, Yo!"
 
 ![Chris has always favored the Lone Peaks.](images/LonePeak_IMG_6950.jpg)
 
@@ -831,7 +837,7 @@ Griesalp is maybe the highest Postbus stop in Switzerland. As always, the postbu
 
 It's always anticlimactic, though, to arrive at a destination many hours too early. Our [hotel](https://www.bernerhof.ch/en/hotel/hotel) wasn't ready for us. We had nothing to do.
 
-And so we ended up walking from central Kandersteg up all the way to the Oeschinensee (the famous local mountain lake), doing the end of today's hike in reverse and uphill, and a hard, hot walk it was! We found ourselves in the company of numerous Israeli teenagers out on a school outing -- nice kids!
+And so we ended up walking from central Kandersteg up all the way to the Oeschinensee (the famous local mountain lake), doing the end of today's hike in reverse and uphill, and a hard, hot walk it was! We found ourselves in the company of numerous Israeli teenagers out on a school outing -- nice kids who were very proud of their (admirable!) English language skills!
 
 ![The Oeschinensee, a glacial lake.](images/Oeschinensee_IMG_7968.jpg)
 
@@ -1006,6 +1012,8 @@ We tried to get lunch at the [Metsch cablecar](https://lenk-simmental.ch/en/our-
 
 At the bottom of the cablecar, it was a simple, flat walk along a river into town. Our [hotel](https://www.krone-lenk.ch/en/home/hotel) was oddly unstaffed -- everyone's keys were laid out on a desk with their names, but no one was there. We went swimming in the hotel's pool, where the owner's grandsons were cavorting for hours. We attempted to use the sauna but couldn't figure out how to turn it on, and there was no one to ask for help.
 
+We took a walk and saw that the local high school, out of session for the summer, had turned its cafeteria into a lunch place, clearly aimed at retirees. The menu and prices looked pretty good, but we thought we would feel out of place. And also, we didn't spend all this money to come to Switzerland and eat at a high school cafeteria.
+
 The town felt very dead. Instead of looking for an evening's entertainment, we got dinner supplies at the Coop and had another private balcony party at our hotel. It's a treat to be able to sit and watch the sun go down on the mountains.
 
 ![Lenk sunset](images/Lenk_sunset_IMG_8371.jpg)
@@ -1076,7 +1084,7 @@ We headed out for an early start, but discovered that the [Eggli cable car](http
 
 ![The view from the top, looking back in the direction of Gstaad.](images/Gstaad_glacier_IMG_8477.jpg)
 
-Once we got up to the higher trail, we had a lovely ridge and forest walk. We could sort of see the resort at the top of the [glacier](ColdeJable_cows_IMG_8513.jpg) that serves as a summer ski area in Gstaad. (We know of the existence of this glacier from *Return of the Pink Panther*, in which Lady Litton is reported to be skiing on a glacier in the middle of summer, though in fact she had gone to the tennis instead.)
+Once we got up to the higher trail, we had a lovely ridge and forest walk. We could sort of see the resort at the top of the [glacier](images/ColdeJable_cows_IMG_8513.jpg) that serves as a summer ski area in Gstaad. (We know of the existence of this glacier from *Return of the Pink Panther*, in which Lady Litton is reported to be skiing on a glacier in the middle of summer, though in fact she had gone to the tennis instead.)
 
 ![The terrain here is definitely softer and greener than that of the higher mountains we'd just left behind.](images/Gstaad_gentle_IMG_8485.jpg)
 
@@ -1084,7 +1092,7 @@ Today's walk was quite easy, at least by Via Alpina standards, though it's possi
 
 ![Dirt roads can be a wonderful thing if they don't go too out of the straight line path.](images/Gstaad_dirt_road_IMG_8501.jpg)
 
-![At this farm, they were pressure washing their show cows. The cows appeared to LOVE it.](images/ColdeJable_cows_IMG_8513.jpg)
+![At this farm, they were pressure-washing their show cows. The cows appeared to LOVE it.](images/ColdeJable_cows_IMG_8513.jpg)
 
 Today, we crossed the Col de Jable, the pass that put us in French-speaking Switzerland. 
 
@@ -1141,7 +1149,7 @@ We arrived around 10 and spent a lovely morning with family. It felt strange not
 
 ![The statue of Freddie Mercury is one of the best-known attractions in Montreux.](images/Montreux_statue_IMG_8603.jpg)
 
-Montreux used to have a thriving music recording industry, hence the presence of the famous Freddie Mercury statute. The name "Montreux" is known in the U.S. mainly from the Deep Purple song "Smoke on the Water."  In case you don't remember (or perhaps have never heard this work of musical genius!), "Smoke on the Water" recounts the time the band went to make a record in a mobile studio but some "stupid with a flare gun burned the whole place down." The fire produced the "smoke on the water and fire in the sky." Must've been something to see. 
+Montreux used to have a thriving music recording industry, hence the presence of the famous Freddie Mercury statute. The name "Montreux" is known in the U.S. mainly from the Deep Purple song "Smoke on the Water."  In case you don't remember (or perhaps have never heard this work of musical genius!), "Smoke on the Water" recounts the time the band went to make a record in a mobile studio but some "stupid with a flare gun burned the whole place down." The fire produced the "smoke on the water and fire in the sky." Must've been something to see. We had ice cream by the water, right in front of the Casino where Deep Purple ended up recording their record, after their studio burned down.
 
 ![This sign marks the end of the Via Alpina. We'd done the thing!](images/Montreux_trailend_IMG_8610.jpg)
 
